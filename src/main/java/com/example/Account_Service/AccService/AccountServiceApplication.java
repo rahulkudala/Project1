@@ -1,13 +1,16 @@
-package com.example.Action_Service;
-
+package com.example.Account_Service.AccService;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ActionServiceApplication {
+public class AccountServiceApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ActionServiceApplication.class, args);
+		SpringApplication.run(AccountServiceApplication.class, args);
 	}
+
+
+
+
 
 }
